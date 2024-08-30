@@ -32,7 +32,7 @@ I’m currently learning [Cypress on Udemy](https://www.udemy.com/course/cypress
 
 [Zavrsni projekat](https://github.com/BobanaS/ZavrsniProjekat): Automated Testing of Web Application using Selenium WebDriver and TestNG
 
-[QA and me](): My QA portfolio **In Progress**
+[QA Portfolio](): My QA portfolio **In Progress**
 ## 📬 Contact
 
 If you enjoyed what you’ve seen, let’s connect on [LinkedIn](https://www.linkedin.com/in/bobana-simikic160719918/)! Feel free to reach out for potential collaborations or if you have any questions.
