@@ -1,4 +1,4 @@
-## Hi world  👋
+## Hello world  👋
 
 I am Bobana, QA Tester with a passion for technology and a quest for perfection. I thrive on ensuring that every line of code is flawless and every feature functions seamlessly. My mission? To find those sneaky bugs and guarantee the highest quality of software.
 
