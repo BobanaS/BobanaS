@@ -1,6 +1,6 @@
 ## Hello world  👋
 
-I am Bobana, QA Tester with a passion for technology and a quest for perfection. I thrive on ensuring that every line of code is flawless and every feature functions seamlessly. My mission? To find those sneaky bugs and guarantee the highest quality of software.
+I am Bobana, QA Specialist with a passion for technology and a quest for perfection. I thrive on ensuring that every line of code is flawless and every feature functions seamlessly. My mission? To find those sneaky bugs and guarantee the highest quality of software.
 
 ## 🌱 Currently Learning
 I’m currently learning [Cypress on Udemy](https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero/) to further enhance my automation testing skills.
@@ -32,7 +32,7 @@ I’m currently learning [Cypress on Udemy](https://www.udemy.com/course/cypress
 
 [Zavrsni projekat](https://github.com/BobanaS/ZavrsniProjekat): Automated Testing of Web Application using Selenium WebDriver and TestNG
 
-[QA Portfolio](): My QA portfolio **In Progress**
+[QA Portfolio](https://github.com/BobanaS/QA-Portfolio): My QA portfolio
 ## 📬 Contact
 
 If you enjoyed what you’ve seen, let’s connect on [LinkedIn](https://www.linkedin.com/in/bobana-simikic160719918/)! Feel free to reach out for potential collaborations or if you have any questions.
