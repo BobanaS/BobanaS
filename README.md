@@ -3,7 +3,7 @@
 I am Bobana, QA Specialist with a passion for technology and a quest for perfection. I thrive on ensuring that every line of code is flawless and every feature functions seamlessly. My mission? To find those sneaky bugs and guarantee the highest quality of software.
 
 ## 🌱 Currently Learning
-I’m currently learning [Cypress on Udemy](https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero/) to further enhance my automation testing skills.
+I’m currently learning [Playwright PYTHON Automation Testing - From Zero to Expert on Udemy](https://www.udemy.com/course/playwright-python-automation-testing-pytest/) to further enhance my automation testing skills.
 
 ## 🚀 What I Do
 **Bug Hunting:** On a relentless quest to uncover hidden bugs and prevent them from causing trouble.
